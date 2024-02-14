@@ -1,0 +1,9 @@
+The simulation datasets are large memory files that exceed the allowable capacity to be hosted on GitHub.
+Therefore they have been hosted on a publicly accessible Google Drive link as follows:
+
+https://drive.google.com/drive/folders/1WceuUT6AvgIG7bckBjgU2wsgy-cZLib1?usp=sharing
+
+There are two zip files
+
+1. "Datasets.rar" contains the reactant and product profiles of the cellobiose system at 4 different temperatures.
+2. "Volumetric map data.rar" contains the volume densities of the reactant cellobiose, as well as its condensed-phase that is treated as the solvent, at each of the 4 different temperatures. These files are in the .dx format 
