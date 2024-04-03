@@ -459,8 +459,8 @@ if __name__=='__main__':
     
     
     plt.figure(figsize=(7,7))
-    plt.plot(avg_epoch_loss[:100], label='Train')
-    plt.plot(avg_val_loss[:100], label='Validation')
+    plt.plot(avg_epoch_loss, label='Train')
+    plt.plot(avg_val_loss, label='Validation')
     plt.legend()
     plt.xlabel('Epochs')
     plt.ylabel('Loss')
